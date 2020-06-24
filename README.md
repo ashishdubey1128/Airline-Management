@@ -1,2 +1,2 @@
 # Airline-Management
-A complete Air ticket booking website build upon PHP
+A complete Air ticket booking website built upon PHP
